@@ -1,0 +1,9 @@
+{
+  "name": "evolux",
+  "version": "1.0.0",
+  "description": "Evolux helps you organize goals, plans, habits, and money in one place, turning daily actions into measurable progress.",
+  "keywords": [],
+  "author": "@CUSTcoding",
+  "license": "ISC",
+  "packageManager": "pnpm@10.28.0"
+}
