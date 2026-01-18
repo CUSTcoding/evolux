@@ -1,0 +1,8 @@
+Django
+djangorestframework
+django-filter
+pandas
+numpy
+markdown2
+python-dotenv
+requests
