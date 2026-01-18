@@ -137,3 +137,66 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+# ========================
+# Python / Django
+# ========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+*.venv/
+env/
+venv/
+ENV/
+pip-log.txt
+pip-delete-this-directory.txt
+*.sqlite3
+*.log
+*.pot
+*.py[cod]
+*.coverage
+*.mo
+*.pyo
+*.DS_Store
+*.egg-info/
+dist/
+build/
+.eggs/
+*.pytest_cache/
+migrations/__pycache__/
+*.vscode/
+
+# Django specific
+*.db
+staticfiles/
+media/
+
+# ========================
+# Node / Next.js / TypeScript
+# ========================
+node_modules/
+.next/
+out/
+dist/
+build/
+*.tsbuildinfo
+*.log
+yarn-error.log
+pnpm-debug.log
+.pnp.*
+.vscode/
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# ========================
+# Monorepo / general
+# ========================
+.idea/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+.DS_Store
